@@ -1,0 +1,24 @@
+.container-fluid {
+  /* height: 100vh; */
+  margin: 0 auto;
+  padding: 0;
+}
+
+#about-card {
+  margin: auto auto auto 15%;
+  padding: 1%;
+}
+body {
+  padding-top: 10%;
+  background-image: url("../images/background2.png");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  z-index: 10000;
+}
